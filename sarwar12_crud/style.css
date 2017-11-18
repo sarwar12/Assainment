@@ -1,0 +1,13 @@
+.logo{
+
+}
+.logo h1{
+	text-transform: uppercase;
+	text-align: center;
+	color: orange;
+}
+.logo h5{
+	text-transform: capitalize;
+	text-align: center;
+	color: gray;
+}
